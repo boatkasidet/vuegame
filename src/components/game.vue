@@ -19,8 +19,8 @@
             <br />
             <img
               src="https://media0.giphy.com/media/H1jVdqPuTsmoV9xwmH/giphy.gif"
-              height="300"
-              width="300"
+              height="400"
+              width="500"
             />
           </p>
           <!-- lose -->
@@ -28,17 +28,8 @@
             <br />
             <img
               src="https://media2.giphy.com/media/xULW8CPwOHXPua8NTa/source.gif"
-              height="300"
-              width="300"
-            />
-          </p>
-          <!-- VS -->
-          <p v-else>
-            <br />
-            <img
-              src="https://media0.giphy.com/media/3Fie42HOj3uwIX3YNv/giphy.gif"
               height="400"
-              width="400"
+              width="500"
             />
           </p>
         </div>
@@ -89,7 +80,7 @@ export default {
         },
         {
           name: "SANY",
-          hp: 170,
+          hp: 190,
           image:
             "https://1.bp.blogspot.com/-Wj2wgBIQBCY/UtbWE6_Fy2I/AAAAAAAAAkg/sMooldkhpn4/s1600/200px-Sunny_GGB.png",
         },
@@ -111,19 +102,19 @@ export default {
       monster: [
         {
           name: "GT ROBO",
-          hp: 230,
+          hp: 200,
           image:
             "https://vignette.wikia.nocookie.net/toriko/images/7/74/GT_Robo..png/revision/latest/scale-to-width-down/340?cb=20130322161611",
         },
         {
           name: "MIDORA",
-          hp: 250,
+          hp: 210,
           image:
             "https://vignette.wikia.nocookie.net/toriko/images/9/91/Midora_GGB.png/revision/latest/scale-to-width-down/340?cb=20130703165207",
         },
         {
           name: "NITRO",
-          hp: 220,
+          hp: 190,
           image:
             "https://vignette.wikia.nocookie.net/toriko/images/2/2b/Nitro_GGB.png/revision/latest/scale-to-width-down/340?cb=20130703163043",
         },
